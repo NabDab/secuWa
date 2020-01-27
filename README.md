@@ -6,5 +6,5 @@
 ```
 import project 
 mvn clean install
-mvn spring-boot:run or run com.mft.securwa.Application
+mvn spring-boot:run
 ```
